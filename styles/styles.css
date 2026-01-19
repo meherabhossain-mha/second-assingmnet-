@@ -36,7 +36,7 @@ font-weight: 16px;
 border-radius: 10000px;
 background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(251, 9, 180, 1),rgba(145, 0, 248, 1)));
 color: #ffffff;
-cursor: pointer;
+cursor: pointer; 
     
 }
 nav .menu a{
@@ -46,15 +46,9 @@ nav .menu a{
     text-decoration: none;
     gap: 32px;
 max-width: 218px;
-color: #ffffff;
+ color: #ffffff; 
 justify-content: flex-start;
-
 }
 .banner{
     background-image: url(../assets/hero-bg.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    max-width:71%;
-    height: 100vh;
-    background-position: center;
 }
