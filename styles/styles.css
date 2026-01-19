@@ -51,4 +51,10 @@ justify-content: flex-start;
 }
 .banner{
     background-image: url(../assets/hero-bg.png);
+    width: 1540px;
+height: 760px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
+
